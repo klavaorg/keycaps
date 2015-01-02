@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="63.779526"
-   height="162.53943"
+   height="200.32849"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="face_cap.svg"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="matias-flat.svg"
    inkscape:export-filename="/home/suenot/Dropbox/Public/catboard3/face_cap.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2"
      inkscape:cx="-42.202561"
-     inkscape:cy="64.612892"
+     inkscape:cy="82.612895"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,10 +44,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1024"
-     inkscape:window-height="744"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -58,63 +58,63 @@
      inkscape:snap-page="true">
     <sodipodi:guide
        orientation="1,0"
-       position="14.173228,134.29922"
+       position="14.173228,152.29922"
        id="guide3889" />
     <sodipodi:guide
        orientation="1,0"
-       position="49.606299,127.21261"
+       position="49.606299,145.21261"
        id="guide3891" />
     <sodipodi:guide
        orientation="0,1"
-       position="49.606303,96.125973"
+       position="49.606303,114.12598"
        id="guide3962" />
     <sodipodi:guide
        orientation="0,1"
-       position="31.889763,89.039364"
+       position="31.889763,107.03937"
        id="guide3964" />
     <sodipodi:guide
        orientation="0,1"
-       position="49.606299,81.95275"
+       position="49.606299,99.952753"
        id="guide3966" />
     <sodipodi:guide
        orientation="0,1"
-       position="49.606299,74.866141"
+       position="49.606299,92.866144"
        id="guide3968" />
     <sodipodi:guide
        orientation="1,0"
-       position="63.779526,52.8125"
+       position="63.779526,70.812503"
        id="guide3970" />
     <sodipodi:guide
        orientation="1,0"
-       position="0,86.39961"
+       position="0,104.39961"
        id="guide3972" />
     <sodipodi:guide
        orientation="0,1"
-       position="24.625983,152.39018"
+       position="24.625983,170.39018"
        id="guide3975" />
     <sodipodi:guide
        orientation="1,0"
-       position="24.625983,152.39018"
+       position="24.625983,170.39018"
        id="guide3977" />
     <sodipodi:guide
        orientation="1,0"
-       position="39.153542,152.39018"
+       position="39.153542,170.39018"
        id="guide3979" />
     <sodipodi:guide
        orientation="0,1"
-       position="31.889762,169.7323"
+       position="31.889762,187.7323"
        id="guide3981" />
     <sodipodi:guide
        orientation="0,1"
-       position="22.125,127.21261"
+       position="22.125,145.21261"
        id="guide3983" />
     <sodipodi:guide
        orientation="0,1"
-       position="34.625,134.29922"
+       position="34.625,152.29922"
        id="guide3985" />
     <sodipodi:guide
        orientation="0,1"
-       position="63.779526,141.38583"
+       position="63.779526,159.38583"
        id="guide3987" />
   </sodipodi:namedview>
   <metadata
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,7 +133,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-14.892904,-148.23045)">
+     transform="translate(-14.892904,-128.44139)">
     <rect
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect2985-8"
